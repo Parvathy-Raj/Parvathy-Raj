@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parvathy Raj</h1>
 <h3 align="center">AI/ML Engineer | Data Enthusiast | Generative AI Explorer</h3>
 
-- 🔭 Currently working as an **AI Engineer at Renie, Dubai**, building AI-powered analytics and recommendation systems  
-- 🧑‍💻 Previously an **AI/ML Engineer at ICFOSS, India**, where I developed the **Malayalam Plagiarism Checker** and contributed to LLM-based projects  
-- 📊 Experienced in **LLMs, RAG architectures, NLP, recommendation systems, and BI tools**  
-- 🌱 Exploring **LangChain, LangGraph, LlamaIndex, Agentic AI systems, TensorFlow, PyTorch**  
-- 📝 Published research: *Comprehensive Plagiarism Detection in Malayalam Texts* (ICON 2024, NLP Association of India)  
-- 🤝 Open to opportunities as a **Data Scientist / AI Engineer / ML Engineer**  
-- 📫 Reach me at **parvathyraj12@gmail.com**
+🔭 Currently working as an **AI Engineer at Renie, Dubai**, building AI-powered analytics and recommendation systems  
+🧑‍💻 Previously an **AI/ML Engineer at ICFOSS, India**, where I developed the **Malayalam Plagiarism Checker** and contributed to LLM-based projects  
+📊 Experienced in **LLMs, RAG architectures, NLP, recommendation systems, and BI tools**  
+🌱 Exploring **LangChain, LangGraph, LlamaIndex, Agentic AI systems, TensorFlow, PyTorch**  
+📝 Published research: *Comprehensive Plagiarism Detection in Malayalam Texts* (ICON 2024, NLP Association of India)  
+🤝 Open to opportunities as a **Data Scientist / AI Engineer / ML Engineer**  
+📫 Reach me at **parvathyraj12@gmail.com**
 
 ---
 
