@@ -42,11 +42,11 @@
 
 <h3 align="left">Highlighted Projects:</h3>
 
-- ⚡ **Malayalam Plagiarism Checker** – End-to-end tool using NLTK, ML, Django, and React, deployed on Linux with NGINX & Gunicorn  
-- ⚡ **AI-Powered Analytics Agent (Renie)** – LLaMA3-8B integrated with PostgreSQL for rental & financial insights  
-- ⚡ **Advertisement Recommendation System** – Hybrid (content + collaborative + market basket) targeting system with REST APIs  
-- ⚡ **Scalable RAG-based Chatbot** – LangChain, FAISS, Chroma, Groq API, AWS Bedrock with CI/CD pipelines  
-- ⚡ **Product Review Management** – Summarization & expansion features using LangChain + Cohere  
+⚡ **Malayalam Plagiarism Checker** – End-to-end tool using NLTK, ML, Django, and React, deployed on Linux with NGINX & Gunicorn  
+⚡ **AI-Powered Analytics Agent (Renie)** – LLaMA3-8B integrated with PostgreSQL for rental & financial insights  
+⚡ **Advertisement Recommendation System** – Hybrid (content + collaborative + market basket) targeting system with REST APIs  
+⚡ **Scalable RAG-based Chatbot** – LangChain, FAISS, Chroma, Groq API, AWS Bedrock with CI/CD pipelines  
+⚡ **Product Review Management** – Summarization & expansion features using LangChain + Cohere  
 
 ---
 
